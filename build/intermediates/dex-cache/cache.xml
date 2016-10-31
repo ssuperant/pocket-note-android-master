@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_b82844a0a1ab5d732b21e69959923aac52624af9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mine\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_73eed56f973b29137dd43822640d470181574118\classes.dex" />
+    </item>
+    <item
+        jar="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="098d44704e9314b46ba93d1fc3e0ffe6b27aebf9">
+        <dex dex="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_931e7dcc37b405e13742ba7b0397d2edca13e1c4\classes.dex" />
+    </item>
+    <item
+        jar="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\transforms\dex\debug\folders\1000\10\com.actionbarsherlock-actionbarsherlock-4.4.0_27272ddd87f1549f064543a29bbcd89d0d9d5eeb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mine\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.3_11f3c9d3144b483cbe6e140ef3bdb4403c3b2c3d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mine\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_e771cafc755e063fa432b5b9e5752519374f3bdf\classes.dex" />
+    </item>
+    <item
+        jar="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_1ed599f49e4575372c42f9a9df281a8517336ef0\classes.dex" />
+    </item>
+    <item
+        jar="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="af37992819c7f8b534297bfa49f82a665fdb8123">
+        <dex dex="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be109e6c7f6c317be4b1c9f949f948ab19e3b54f\classes.dex" />
+    </item>
+    <item
+        jar="D:\shixun\pocket-note-android-master\pocketnoteandroid\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="D:\shixun\pocket-note-android-master\pocketnoteandroid\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.2_361ddf0054a5541aca5ff2fe2b0425c33ec4d2b5\classes.dex" />
+    </item>
+
+</items>

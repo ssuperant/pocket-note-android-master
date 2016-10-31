@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_user.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_action_color_pencil.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxxhdpi\\ic_action_color_pencil.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_search.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_android_green.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxxhdpi\\ic_android_green.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_settings.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_android.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxxhdpi\\ic_android.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_icon_expired.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxxhdpi\\ic_icon_expired.png"
+    }
+]

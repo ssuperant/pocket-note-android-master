@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\c02.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\c02.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_tops_bottoms_blue.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_tops_bottoms_blue.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_tops_grey.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_tops_grey.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\trash_row.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\trash_row.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_vimeo_grey.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_vimeo_grey.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\notepad_black.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\notepad_black.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\brown_button_shape.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\brown_button_shape.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_border_bottom.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_border_bottom.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_tops_bottoms_red_compact.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_tops_bottoms_red_compact.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_tops_bottoms.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_tops_bottoms.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\c01.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\c01.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_upper_lighting.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_upper_lighting.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_bottom.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_bottom.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_item.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_item_greyout.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\calendar_item_greyout.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\android_button_select.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\android_button_select.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_border_bottom_user.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_border_bottom_user.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_white_shadow.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_white_shadow.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_item_today.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\calendar_item_today.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_border_top.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_border_top.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_purple_button.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\calendar_purple_button.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\guideimage.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\guideimage.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_gradient_green_bumper.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_gradient_green_bumper.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\c00.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\c00.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\badge_circle.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\badge_circle.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_tops_blue.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_tops_blue.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_trash_shadow.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_trash_shadow.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_layout_select.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\setting_layout_select.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__tab_indicator_ab_holo.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_vimeo_grey_shadow.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_vimeo_grey_shadow.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_tops_bottoms_grey.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_tops_bottoms_grey.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_gradient_blue.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_gradient_blue.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\c21.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\c21.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_trash_row_select.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_trash_row_select.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_tops.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_tops.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_bottoms_blue.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_bottoms_blue.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_note_row_greyout.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_note_row_greyout.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_main_drawer.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_grey.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_grey.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_white.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_white.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_border_bottom_profile.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_border_bottom_profile.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\guidance.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\c12.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\c12.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_note_row.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_note_row.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance2.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\guidance2.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\purple_background.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\purple_background.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\a3.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\a3.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_icon_tiny_alert.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\ic_icon_tiny_alert.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_list_selector.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\drawer_list_selector.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\title_editor_rectangle.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\title_editor_rectangle.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_vimeo_grey.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_vimeo_grey.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_purple.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\drawable_purple.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance3.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\guidance3.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\purple_button.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\purple_button.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\c10.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\c10.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_purple.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_purple.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_icon_tiny_new_reminder.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\ic_icon_tiny_new_reminder.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\a4.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\a4.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_blue.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_blue.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\a5.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\a5.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_border_top_user.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_border_top_user.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance4.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\guidance4.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_transparent.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_transparent.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_white.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_white.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_blue.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_blue.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_shadow.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_shadow.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\c11.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\c11.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_bevel_white_alt.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_bevel_white_alt.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance0.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\guidance0.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_bottoms_grey.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_bottoms_grey.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_note_row_select.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_note_row_select.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_main_drawer_reverse.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_main_drawer_reverse.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\a2.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\a2.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance1.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\guidance1.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\c22.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\c22.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_gradient_blue_rev.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_gradient_blue_rev.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\a1.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\a1.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_bottoms.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_bottoms.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_bevel_white.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_bevel_white.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_square.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rounded_square.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_top.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_top.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_dark.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_dark_turquoise.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_dark_turquoise.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\c20.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\c20.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_paren.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_paren.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\empty_trash.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\empty_trash.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_light.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\ic_user.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_item.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\calendar_item.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\animationdrable.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\animationdrable.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_trash.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_trash.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_note_row_greyout_select.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_note_row_greyout_select.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_gradient_al6_al5d5.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_gradient_al6_al5d5.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_trash_row.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\shadow_trash_row.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rounded_tops_bottoms_blue_compact.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable\\rectangle_rounded_tops_bottoms_blue_compact.xml"
+    }
+]

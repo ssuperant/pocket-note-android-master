@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    tools:context="chan.android.app.pocketnote.GuideActivity">
+
+   <android.support.v4.view.ViewPager
+    android:id="@+id/media_actions"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/guideimage">
+
+</android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/search_mag_icon"
+        android:layout_width="fill_parent"
+        android:layout_height="25dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center">
+
+            <View
+                android:id="@+id/dot_0"
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:background="@drawable/guidance"
+                />
+
+        <View
+            android:id="@+id/dot_1"
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@drawable/guidance"
+            />
+
+        <View
+            android:id="@+id/dot_2"
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@drawable/guidance"
+            />
+
+        <View
+            android:id="@+id/dot_3"
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@drawable/guidance"
+            />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/action_bar_activity_content"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_above="@+id/search_mag_icon"
+        android:layout_centerHorizontal="true"
+        android:text="进入应用"
+        android:visibility="gone"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp"
+        />
+
+</RelativeLayout>

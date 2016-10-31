@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:background="@color/purple_0"
+            android:layout_height="fill_parent">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="通用"
+                android:textColor="@color/purple_12"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"
+                android:textSize="@dimen/settings_header_text_size"
+                />
+
+        <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/purple_14"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                />
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:id="@+id/settings_$_linearlayout_color"
+                android:background="@drawable/setting_layout_select"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="默认颜色"
+                    android:layout_gravity="center_vertical"
+                    android:textSize="@dimen/settings_title_text_size"
+                    android:textColor="#000000"
+                    />
+
+            <chan.android.app.pocketnote.util.view.SquareButton
+                    android:id="@+id/settings_$_button_pick_color"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_gravity="center_vertical"
+                    />
+        </LinearLayout>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/settings_description_text_size"
+                android:textColor="@color/vimeo_dark_grey"
+                android:text="便签的默认背景颜色"
+                />
+
+
+        <!-- Sorting -->
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                >
+
+            <TextView
+                    android:id="@+id/settings_$_textview_sorting_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="默认排序"
+                    android:layout_alignTop="@+id/settings_$_spinner_sorting"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textSize="@dimen/settings_title_text_size"
+                    />
+
+            <Spinner
+                    android:id="@+id/settings_$_spinner_sorting"
+                    android:layout_toRightOf="@id/settings_$_textview_sorting_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+
+            <Spinner
+                    android:id="@+id/settings_$_spinner_alphabet_sorting_column"
+                    android:layout_toRightOf="@id/settings_$_textview_sorting_title"
+                    android:layout_below="@id/settings_$_spinner_sorting"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:visibility="gone"
+                    />
+        </RelativeLayout>
+
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/vimeo_dark_grey"
+                android:textSize="@dimen/settings_description_text_size"
+                android:text="用来整理便签的顺序"
+                />
+
+
+        <!-- Collection View -->
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="默认视图"
+                    android:layout_gravity="center_vertical"
+                    android:textSize="@dimen/settings_title_text_size"
+                    android:textColor="#000000"
+                    />
+
+            <Spinner
+                    android:id="@+id/settings_$_spinner_collection_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+
+        </LinearLayout>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/settings_description_text_size"
+                android:textColor="@color/vimeo_dark_grey"
+                android:text="用来显示便签的视图"
+                />
+
+
+        <!-- Password -->
+        <TextView
+                android:layout_marginTop="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="密码"
+                android:textColor="@color/purple_12"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"
+                android:textSize="@dimen/settings_header_text_size"
+                />
+
+        <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/purple_14"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                />
+
+        <RelativeLayout
+                android:id="@+id/settings_$_relativelayout_password"
+                android:layout_width="match_parent"
+                android:background="@drawable/setting_layout_select"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="设置密码"
+                    android:textSize="@dimen/settings_title_text_size"
+                    android:layout_centerVertical="true"
+                    android:textColor="#000000"
+                    />
+
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_action_navigation_next_item"
+                    android:scaleType="centerCrop"
+                    android:scaleX="0.7"
+                    android:scaleY="0.7"
+                    android:layout_alignParentRight="true"
+                    />
+        </RelativeLayout>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/vimeo_dark_grey"
+                android:textSize="@dimen/settings_description_text_size"
+                android:text="更改或重置您当前的密码"
+                />
+
+        <!-- Personal -->
+        <TextView
+                android:layout_marginTop="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="个人"
+                android:textColor="@color/purple_12"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"
+                android:textSize="@dimen/settings_header_text_size"
+                />
+
+        <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/purple_14"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                />
+
+
+        <!-- Username -->
+        <RelativeLayout
+                android:id="@+id/settings_$_relativelayout_username"
+                android:background="@drawable/setting_layout_select"
+                android:clickable="true"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:id="@+id/settings_$_textview_display_name_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="用户名"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_vertical"
+                    android:textSize="@dimen/settings_title_text_size"
+                    android:textColor="#000000"
+                    />
+
+            <TextView
+                    android:id="@+id/settings_$_textview_display_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/settings_$_textview_display_name_title"
+                    android:background="@color/purple_3"
+                    android:textSize="12sp"
+                    android:singleLine="true"
+                    android:layout_margin="10dp"
+                    android:textColor="@color/aluminum6"
+                    android:layout_centerVertical="true"
+                    android:text="Chan Nguyen"
+                    android:padding="3dp"
+                    />
+
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_action_navigation_next_item"
+                    android:scaleType="centerCrop"
+                    android:scaleX="0.7"
+                    android:scaleY="0.7"
+                    android:layout_alignParentRight="true"
+                    />
+        </RelativeLayout>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/settings_description_text_size"
+                android:textColor="@color/vimeo_dark_grey"
+                android:text="显示在主页上的用户名"
+                />
+
+
+        <RelativeLayout
+                android:id="@+id/settings_$_relativelayout_photo"
+                android:background="@drawable/setting_layout_select"
+                android:clickable="true"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:id="@+id/settings_$_textview_photo_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="头像"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_vertical"
+                    android:textSize="@dimen/settings_title_text_size"
+                    android:textColor="#000000"
+                    />
+
+            <chan.android.app.pocketnote.util.view.CircularImageView
+                    android:id="@+id/settings_$_imageview_photo"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_toRightOf="@+id/settings_$_textview_photo_title"
+                    android:layout_margin="10dp"
+                    android:layout_centerVertical="true"
+                    android:padding="3dp"
+                    android:src="@drawable/ic_user"
+                    />
+
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_action_navigation_next_item"
+                    android:scaleType="centerCrop"
+                    android:scaleX="0.7"
+                    android:scaleY="0.7"
+                    android:layout_alignParentRight="true"
+                    />
+        </RelativeLayout>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/settings_description_text_size"
+                android:textColor="@color/vimeo_dark_grey"
+                android:text="显示在主页上的头像"
+                />
+
+        <!-- About -->
+        <TextView
+                android:layout_marginTop="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="关于"
+                android:textColor="@color/purple_12"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"
+                android:textSize="@dimen/settings_header_text_size"
+                />
+
+        <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/purple_14"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                />
+
+
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/settings_description_text_size"
+                android:textColor="@color/vimeo_dark_grey"
+                android:text="《随身便签》是由Round_Liu开发的一款免费的Android应用程序，如在使用时如遇到任何问题，都可以随时反馈：1710707653@qq.com，感谢您使用《随身便签》：）"
+                />
+
+        <Button
+                android:id="@+id/settings_$_button_rate"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="评价我们！"
+                android:visibility="gone"
+                android:textSize="12sp"
+                android:background="@drawable/purple_button"
+                />
+
+    </LinearLayout>
+
+</ScrollView>

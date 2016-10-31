@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_unlock.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_unlock.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_lock_dark.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_lock_dark.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_drawer_note.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_drawer_note.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_uncheck.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_uncheck.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_color_pencil.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_color_pencil.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_content_event.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_content_event.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_content_edit.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_content_edit.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_drawer_trash.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_drawer_trash.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_left.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_left.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_user.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_navigation_next_item.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_navigation_next_item.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_clock_dark.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_clock_dark.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_collections_view_as_grid.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_collections_view_as_grid.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_check.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_check.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_repeat.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_repeat.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_reminder_dark.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_reminder_dark.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_content_picture.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_content_picture.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_email.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_drawer_settings.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_drawer_settings.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_favorite.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_favorite.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_settings.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_android_green.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_android_green.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_device_access_camera.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_device_access_camera.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_new.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_lock.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_view_details.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_view_details.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_device_access_secure.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_device_access_secure.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_android.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_android.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_expand.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_expand.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_dismiss.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_dismiss.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_trash.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_trash.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_restore.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_restore.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_icon_expired.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_icon_expired.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_drawer_search.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_drawer_search.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_next_item.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_navigation_expand.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_navigation_expand.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_collections_view_as_list.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_collections_view_as_list.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_clock.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_clock.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_calendar_info.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_calendar_info.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_search.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_alphabetical_sorting.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_alphabetical_sorting.png"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_right.png",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_right.png"
+    }
+]

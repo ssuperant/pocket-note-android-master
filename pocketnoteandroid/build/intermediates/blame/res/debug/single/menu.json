@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\menu\\blank.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\menu\\blank.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\menu\\calendar.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\menu\\calendar.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\menu\\notes.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\menu\\notes.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\menu\\trash.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\menu\\trash.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\menu\\reminder.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\menu\\reminder.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\menu\\search.xml"
+    }
+]

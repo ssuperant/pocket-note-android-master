@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\notes.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\layout-sw600dp\\notes.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\note_grid_item.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\layout-sw600dp\\note_grid_item.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\note_list_item.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\layout-sw600dp\\note_list_item.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\calendar.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\layout-sw600dp\\calendar.xml"
+    },
+    {
+        "merged": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\calendar_grid_item.xml",
+        "source": "D:\\shixun\\pocket-note-android-master\\pocketnoteandroid\\src\\main\\res\\layout-sw600dp\\calendar_grid_item.xml"
+    }
+]

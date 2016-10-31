@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">随身便签</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+
+
+    <!--  Strings for possible PreferenceActivity Back/Next buttons -->
+    <string name="back_button_label">返回</string>
+    <string name="next_button_label">下一页</string>
+
+    <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
+    <string name="skip_button_label">跳过</string>
+
+</resources>
